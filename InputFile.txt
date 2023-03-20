@@ -1,0 +1,445 @@
+Receive your cards
+2#sent
+3#sent
+10#sent
+18#sent
+24#sent
+25#sent
+33#sent
+36#sent
+37#sent
+38#sent
+43#sent
+44#sent
+48#sent
+Make your call
+Call is set!
+3#3#3#3#calls
+Make your move
+Moved!
+9#38
+25#26
+38#34
+51#35
+0#1#0#0#hands
+24#13
+37#14
+50#21
+Make your move
+Moved!
+5#25
+0#2#0#0#hands
+23#15
+36#23
+49#20
+Make your move
+Moved!
+4#24
+0#3#0#0#hands
+22#50
+35#46
+48#39
+Make your move
+Moved!
+12#48
+0#3#0#1#hands
+47#16
+Make your move
+Moved!
+3#18
+21#5
+34#22
+0#4#0#1#hands
+20#40
+33#45
+46#51
+Make your move
+Moved!
+11#44
+0#5#0#1#hands
+19#41
+32#9
+45#49
+Make your move
+Moved!
+10#43
+0#5#1#1#hands
+31#0
+44#12
+Make your move
+Moved!
+2#10
+18#47
+0#5#2#1#hands
+30#1
+43#11
+Make your move
+Moved!
+1#3
+17#32
+0#5#3#1#hands
+29#17
+42#8
+Make your move
+Moved!
+0#2
+16#31
+1#5#3#1#hands
+Make your move
+Moved!
+6#33
+15#30
+28#28
+41#7
+1#5#3#2#hands
+40#4
+Make your move
+Moved!
+8#37
+14#29
+27#19
+1#5#3#3#hands
+39#6
+Make your move
+Moved!
+7#36
+13#42
+26#27
+1#5#3#4#hands
+-3#3#3#3#points
+0#0#0#0#hands
+0#0#0#0#calls
+Receive your cards
+3#sent
+4#sent
+7#sent
+12#sent
+14#sent
+17#sent
+18#sent
+25#sent
+32#sent
+33#sent
+39#sent
+40#sent
+45#sent
+Make your call
+Call is set!
+5#2#3#3#calls
+Make your move
+Moved!
+10#39
+25#50
+38#51
+51#49
+1#0#0#0#hands
+Make your move
+Moved!
+11#40
+24#48
+37#44
+50#47
+2#0#0#0#hands
+Make your move
+Moved!
+7#25
+23#22
+36#13
+49#21
+2#0#1#0#hands
+35#26
+48#37
+Make your move
+Moved!
+9#33
+22#38
+2#0#2#0#hands
+34#27
+47#11
+Make your move
+Moved!
+8#32
+21#36
+2#0#2#1#hands
+46#43
+Make your move
+Moved!
+12#45
+20#46
+33#42
+2#0#3#1#hands
+32#41
+45#10
+Make your move
+Moved!
+2#7
+19#2
+2#1#3#1#hands
+18#35
+31#30
+44#9
+Make your move
+Moved!
+1#4
+3#1#3#1#hands
+Make your move
+Moved!
+0#3
+17#34
+30#5
+43#8
+4#1#3#1#hands
+Make your move
+Moved!
+4#14
+16#15
+29#24
+42#16
+5#1#3#1#hands
+Make your move
+Moved!
+5#17
+15#20
+28#23
+41#6
+5#1#3#2#hands
+40#0
+Make your move
+Moved!
+3#12
+14#31
+27#19
+5#1#3#3#hands
+39#1
+Make your move
+Moved!
+6#18
+13#29
+26#28
+5#1#3#4#hands
+2#1#6#6#points
+0#0#0#0#hands
+0#0#0#0#calls
+Receive your cards
+0#sent
+1#sent
+3#sent
+12#sent
+13#sent
+23#sent
+33#sent
+34#sent
+39#sent
+42#sent
+46#sent
+47#sent
+48#sent
+Make your call
+Call is set!
+5#3#2#3#calls
+Make your move
+Moved!
+4#13
+25#18
+38#24
+51#25
+1#0#0#0#hands
+Make your move
+Moved!
+8#39
+24#40
+37#41
+50#51
+2#0#0#0#hands
+Make your move
+Moved!
+0#0
+23#4
+36#11
+49#10
+3#0#0#0#hands
+Make your move
+Moved!
+1#1
+22#38
+35#9
+48#6
+4#0#0#0#hands
+Make your move
+Moved!
+12#48
+21#50
+34#45
+47#5
+4#0#0#1#hands
+46#2
+Make your move
+Moved!
+3#12
+20#36
+33#8
+4#0#0#2#hands
+45#14
+Make your move
+Moved!
+5#23
+19#16
+32#22
+4#0#0#3#hands
+44#26
+Make your move
+Moved!
+7#34
+18#32
+31#30
+4#0#0#4#hands
+43#37
+Make your move
+Moved!
+6#33
+17#31
+30#29
+4#0#1#4#hands
+29#44
+42#35
+Make your move
+Moved!
+9#42
+16#49
+4#0#1#5#hands
+41#20
+Make your move
+Moved!
+2#3
+15#15
+28#21
+5#0#1#5#hands
+Make your move
+Moved!
+10#46
+14#28
+27#43
+40#19
+5#0#1#6#hands
+39#17
+Make your move
+Moved!
+11#47
+13#27
+26#7
+5#0#2#6#hands
+7#-2#8#3#points
+0#0#0#0#hands
+0#0#0#0#calls
+Receive your cards
+2#sent
+5#sent
+10#sent
+12#sent
+14#sent
+16#sent
+18#sent
+25#sent
+30#sent
+31#sent
+47#sent
+48#sent
+49#sent
+Make your call
+Call is set!
+3#3#3#2#calls
+Make your move
+Moved!
+7#25
+25#13
+38#17
+51#24
+0#1#0#0#hands
+24#26
+37#38
+50#29
+Make your move
+Moved!
+9#31
+0#2#0#0#hands
+23#27
+36#37
+49#28
+Make your move
+Moved!
+8#30
+0#3#0#0#hands
+22#51
+35#39
+48#46
+Make your move
+Moved!
+12#49
+0#3#1#0#hands
+34#41
+47#45
+Make your move
+Moved!
+11#48
+21#40
+0#4#1#0#hands
+20#50
+33#7
+46#44
+Make your move
+Moved!
+10#47
+0#4#2#0#hands
+32#15
+45#23
+Make your move
+Moved!
+4#14
+19#20
+1#4#2#0#hands
+Make your move
+Moved!
+5#16
+18#19
+31#4
+44#22
+1#4#3#0#hands
+30#0
+43#8
+Make your move
+Moved!
+3#12
+17#11
+1#4#4#0#hands
+29#1
+42#6
+Make your move
+Moved!
+2#10
+16#9
+1#4#5#0#hands
+28#32
+41#3
+Make your move
+Moved!
+0#2
+15#36
+2#4#5#0#hands
+Make your move
+Moved!
+1#5
+14#34
+27#35
+40#21
+3#4#5#0#hands
+Make your move
+Moved!
+6#18
+13#43
+26#33
+39#42
+4#4#5#0#hands
+10#1#11#1#points
+0#0#0#0#hands
+0#0#0#0#calls
+Game Over!#You lost!
