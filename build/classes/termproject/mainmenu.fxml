@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.canvas.*?>
+<?import javafx.scene.text.*?>
+<?import javafx.scene.image.*?>
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane id="AnchorPane" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="termproject.MainmenuController">
+   <children>
+      <ImageView fitHeight="400.0" fitWidth="600.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@mainmenu.jpg" />
+         </image>
+      </ImageView>
+      <Button layoutX="463.0" layoutY="323.0" mnemonicParsing="false" onAction="#bridge_multiplayer" text="multiplayer" />
+      <Button layoutX="463.0" layoutY="233.0" mnemonicParsing="false" onAction="#bridge_singleplayer" text="singleplayer" />
+      <Button layoutX="56.0" layoutY="323.0" mnemonicParsing="false" onAction="#hearts_multiplayer" text="multiplayer" />
+      <Text fill="WHITE" layoutX="64.0" layoutY="296.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Hearts">
+         <font>
+            <Font size="24.0" />
+         </font>
+      </Text>
+      <Text fill="WHITE" layoutX="463.0" layoutY="299.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Call Bridge">
+         <font>
+            <Font size="24.0" />
+         </font>
+      </Text>
+   </children>
+</AnchorPane>
